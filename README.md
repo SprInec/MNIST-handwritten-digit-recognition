@@ -2,6 +2,7 @@
 	<h1>MNIST Handwritten Digit Recognition</h1>
 	MNIST handwritten digit recognition / MNIST 手写数字识别
 </div>
+
 ## 一、环境配置
 
 > [!tip]
